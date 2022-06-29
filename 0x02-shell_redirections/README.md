@@ -2,3 +2,4 @@
 0. Hello, world
 1. Confused smiley
 3. Display a file
+4. Display the content of two file
